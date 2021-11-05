@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "939363372832",
+    "project_id": "fir-andbloc",
+    "storage_bucket": "fir-andbloc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939363372832:android:99682337f418adcfd95145",
+        "android_client_info": {
+          "package_name": "com.example.firebase_bloc_login_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939363372832-9b1mhb9f7aiq1ovititaij4ta63oa8b4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN1zz1YQOPfrBWZWm7xSie9LgfK4IageY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939363372832-9b1mhb9f7aiq1ovititaij4ta63oa8b4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
